@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>-e .\VectorAdd\Dataset\4\output.raw -i .\VectorAdd\Dataset\4\input0.raw,.\VectorAdd\Dataset\4\input1.raw -o .\VectorAdd\Dataset\4\myoutput.raw -t vector &gt; .\VectorAdd\Dataset\4\result.txt</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

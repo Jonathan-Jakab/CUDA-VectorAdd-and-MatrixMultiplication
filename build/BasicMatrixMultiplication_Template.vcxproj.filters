@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A1\source\BasicMatrixMultiplication\template.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A1\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\Jonny Apple Seed\Desktop\Homework\CSC 163\Labs\A1\build\CMakeFiles\BasicMatrixMultiplication_Template.dir\BasicMatrixMultiplication\$(Configuration)\BasicMatrixMultiplication_Template_generated_template.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{A142EE25-66EA-3F1B-8FFC-2CCD2B186802}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DB983F0B-B987-3F8C-B010-806252EF55FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
